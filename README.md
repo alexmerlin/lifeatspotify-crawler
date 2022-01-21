@@ -1,5 +1,11 @@
-# lifeatspotify-crawler
+# lifeatspotify.com Crawler
 Crawler demo for lifeatspotify.com jobs
+
+## Setup:
+This is a Symfony 5 Skeleton project. In order to use it, first, you need to install its dependencies by running:
+```bash
+composer install
+```
 
 ## Crawling jobs:
 Running the command:
